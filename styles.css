@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+}
+
+ul {
+    margin: 0 auto;
+    display: table;
+}
